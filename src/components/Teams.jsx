@@ -23,7 +23,7 @@ const Teams = () => {
     >
       <div
         id="gallery"
-        className="flex md:flex-col flex-col justify-center items-center gap-6"
+        className="flex md:flex-row flex-col justify-center items-center gap-6"
       >
         <img
           data-aos="slide-up"
